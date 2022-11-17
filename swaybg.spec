@@ -1,11 +1,11 @@
 Name:       swaybg
-Version:    1.0
-Release:    1
+Version:	1.1.1
+Release:	1
 Summary:    Wallpaper tool for Wayland compositors
 
 License:    MIT
 URL:        https://github.com/swaywm/swaybg
-Source0:	https://github.com/swaywm/swaybg/archive/%{version}.tar.gz
+Source0:	https://github.com/swaywm/swaybg/archive/v%{version}.tar.gz
 
 BuildRequires:  meson >= 0.48.0
 BuildRequires:  pkgconfig(cairo)
