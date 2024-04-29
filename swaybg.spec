@@ -5,7 +5,7 @@ Summary:    Wallpaper tool for Wayland compositors
 
 License:    MIT
 URL:        https://github.com/swaywm/swaybg
-Source0:	https://github.com/swaywm/swaybg/archive/v%{version}.tar.gz
+Source0:	https://github.com/swaywm/swaybg/archive/v%{version}/%{name}-%{version}.tar.gz
 
 BuildRequires:  meson >= 0.48.0
 BuildRequires:  pkgconfig(cairo)
