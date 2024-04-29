@@ -1,6 +1,6 @@
 Name:       swaybg
-Version:	1.2.0
-Release:	2
+Version:	1.2.1
+Release:	1
 Summary:    Wallpaper tool for Wayland compositors
 
 License:    MIT
